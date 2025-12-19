@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="Practice.asm">
+    <MASM Include="EVEN_ODD_NUMBER_PROGRAM.asm">
       <IncludePaths Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\irvine;%(IncludePaths)</IncludePaths>
     </MASM>
   </ItemGroup>

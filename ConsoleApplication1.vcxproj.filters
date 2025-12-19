@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="Practice.asm">
+    <MASM Include="EVEN_ODD_NUMBER_PROGRAM.asm">
       <Filter>Source Files</Filter>
     </MASM>
   </ItemGroup>

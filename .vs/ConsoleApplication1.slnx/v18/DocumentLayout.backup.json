@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4E2A217-F1DA-40D3-A219-719A3B9EC01E}|ConsoleApplication1.vcxproj|D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\Practice.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C4E2A217-F1DA-40D3-A219-719A3B9EC01E}|ConsoleApplication1.vcxproj|solutionrelative:Practice.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C4E2A217-F1DA-40D3-A219-719A3B9EC01E}|ConsoleApplication1.vcxproj|D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\EVEN_ODD_NUMBER_PROGRAM.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C4E2A217-F1DA-40D3-A219-719A3B9EC01E}|ConsoleApplication1.vcxproj|solutionrelative:EVEN_ODD_NUMBER_PROGRAM.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Practice.asm",
-              "DocumentMoniker": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\Practice.asm",
-              "RelativeDocumentMoniker": "Practice.asm",
-              "ToolTip": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\Practice.asm",
-              "RelativeToolTip": "Practice.asm",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAALAAAAAAAAAA==",
+              "Title": "EVEN_ODD_NUMBER_PROGRAM.asm",
+              "DocumentMoniker": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\EVEN_ODD_NUMBER_PROGRAM.asm",
+              "RelativeDocumentMoniker": "EVEN_ODD_NUMBER_PROGRAM.asm",
+              "ToolTip": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\EVEN_ODD_NUMBER_PROGRAM.asm*",
+              "RelativeToolTip": "EVEN_ODD_NUMBER_PROGRAM.asm*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-19T09:29:27.845Z",
+              "WhenOpened": "2025-12-19T15:15:44.743Z",
               "EditorCaption": ""
             }
           ]
