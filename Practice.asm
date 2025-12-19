@@ -5,41 +5,56 @@
 ; Perform Arithmetic: Calculate the sum, difference, and product of these two numbers.
 ; Display Results: Print the results of each operation back to the console.
 
-include irvine.inc
+include irvine32.inc
 
 .data
 
 a DWORD ?
 b DWORD ?
-result1 DWORD 
+result1 DWORD ?
+result2 DWORD ?
+result3 DWORD ?
 msg1 BYTE "ENTER NUMBER: ",0
 msg2 BYTE "RESULT: ",0
 
 .code
+
+main PROC
 	mov edx, offset msg1
 	call writestring
 	call readint
 	mov a,eax
 
 	call crlf
-
+	call writestring
 	call readint
 	mov b,eax
 
 	; Performing Multiplication
+	mov eax, a
+	mov ebx, b
 	mul ebx
-	mov result1, eax
+	mov edx, offset msg2
+	call writestring
+	call writeint
+	call crlf
 
-	; Performing addition
-	callw
+	; performing addition
+	mov eax, a
+	mov ebx, b
+	add eax, ebx
+	call writestring
+	call writeint
+	mov result2, eax
+	call crlf
 
-
-
-
-main PROC
-
-
-
+	; performing subtraction
+	mov eax, a
+	mov ebx,b
+	sub eax,ebx
+	call writestring
+	call writeint
+	mov result3, eax
 
 exit
 main endP
