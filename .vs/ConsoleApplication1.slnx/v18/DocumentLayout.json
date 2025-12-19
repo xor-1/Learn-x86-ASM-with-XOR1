@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4E2A217-F1DA-40D3-A219-719A3B9EC01E}|ConsoleApplication1.vcxproj|D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\DMAS.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C4E2A217-F1DA-40D3-A219-719A3B9EC01E}|ConsoleApplication1.vcxproj|solutionrelative:DMAS.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C4E2A217-F1DA-40D3-A219-719A3B9EC01E}|ConsoleApplication1.vcxproj|D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\DATA_TYPES.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C4E2A217-F1DA-40D3-A219-719A3B9EC01E}|ConsoleApplication1.vcxproj|solutionrelative:DATA_TYPES.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DMAS.asm",
-              "DocumentMoniker": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\DMAS.asm",
-              "RelativeDocumentMoniker": "DMAS.asm",
-              "ToolTip": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\DMAS.asm",
-              "RelativeToolTip": "DMAS.asm",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Title": "DATA_TYPES.asm",
+              "DocumentMoniker": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\DATA_TYPES.asm",
+              "RelativeDocumentMoniker": "DATA_TYPES.asm",
+              "ToolTip": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\DATA_TYPES.asm",
+              "RelativeToolTip": "DATA_TYPES.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T20:15:41.193Z",
+              "WhenOpened": "2025-12-19T05:06:20.984Z",
               "EditorCaption": ""
             }
           ]
