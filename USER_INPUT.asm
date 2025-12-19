@@ -1,0 +1,37 @@
+; IN THIS PROGRAM WE WILL TAKE USER INPUT AND PERFORM MULTIPLICATION ON THOSE VALUES
+
+include irvine32.inc
+
+.data
+	
+	n1 DWORD ?		; WE USE "?" TO JUST DECLARE THE VARIABLE (NOT INITIALIZING)
+	n2 DWORD ?
+
+	msg1 BYTE "ENTER A NUMBER: ",0
+	msg2 BYTE "THE RESULT IS: ",0
+	
+.code
+	main PROC
+	
+	mov edx, offset msg1		; GIVING OFFSET OF "msg1" TO EDX REGISTER FOR OUPUT ON "CALL WRITESTRING" AS IT TAKES VALUE FROM EDX
+	call writestring
+	call readint				;WE USE "CALL READINT" TO READ AN INT VALUE FROM THE USER INPUT AND IS STROED IN THE EAX
+	mov n1, eax					; CLEARING THE REGISTER FOR NEXT INPUT
+
+	call writestring			; AGAIN CALLING THE FUNCTION
+	call readint
+	mov n2, eax
+
+	call crlf					; NEW LINE
+
+	mov eax, n1					; PERFORMING MULTIPLICATION ON USER INPUT VALUES
+	mov ebx, n2
+	mul ebx
+
+	mov edx, offset msg2		; DISPLAYING THE SECOND MSG ALONG WITH "CALL WRITEINT" TO DISPLAY THE VALUE OF EAX (MULTIPLICATION)
+	call writestring
+	call writeint
+
+	exit
+	main endP
+	end main
