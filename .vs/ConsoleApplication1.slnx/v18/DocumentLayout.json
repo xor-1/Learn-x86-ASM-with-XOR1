@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4E2A217-F1DA-40D3-A219-719A3B9EC01E}|ConsoleApplication1.vcxproj|D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\EXPRESSION_SOLVE1.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C4E2A217-F1DA-40D3-A219-719A3B9EC01E}|ConsoleApplication1.vcxproj|solutionrelative:EXPRESSION_SOLVE1.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C4E2A217-F1DA-40D3-A219-719A3B9EC01E}|ConsoleApplication1.vcxproj|D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\EXPRESSION_SOLVE2.asm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4E2A217-F1DA-40D3-A219-719A3B9EC01E}|ConsoleApplication1.vcxproj|solutionrelative:EXPRESSION_SOLVE2.asm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EXPRESSION_SOLVE1.asm",
-              "DocumentMoniker": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\EXPRESSION_SOLVE1.asm",
-              "RelativeDocumentMoniker": "EXPRESSION_SOLVE1.asm",
-              "ToolTip": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\EXPRESSION_SOLVE1.asm",
-              "RelativeToolTip": "EXPRESSION_SOLVE1.asm",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Title": "EXPRESSION_SOLVE2.asm",
+              "DocumentMoniker": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\EXPRESSION_SOLVE2.asm",
+              "RelativeDocumentMoniker": "EXPRESSION_SOLVE2.asm",
+              "ToolTip": "D:\\Studies\\Semester 3\\COAL L\\ConsoleApplication1\\EXPRESSION_SOLVE2.asm",
+              "RelativeToolTip": "EXPRESSION_SOLVE2.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-20T18:03:58.771Z",
+              "WhenOpened": "2025-12-20T21:22:17.425Z",
               "EditorCaption": ""
             }
           ]

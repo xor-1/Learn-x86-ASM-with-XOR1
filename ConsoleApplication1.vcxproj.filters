@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="EXPRESSION_SOLVE1.asm">
+    <MASM Include="EXPRESSION_SOLVE2.asm">
       <Filter>Source Files</Filter>
     </MASM>
   </ItemGroup>

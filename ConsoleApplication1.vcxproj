@@ -19,7 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="EXPRESSION_SOLVE1.asm">
+    <MASM Include="EXPRESSION_SOLVE2.asm">
+      <FileType>Document</FileType>
       <IncludePaths Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\irvine;%(IncludePaths)</IncludePaths>
     </MASM>
   </ItemGroup>
